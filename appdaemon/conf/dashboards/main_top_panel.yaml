@@ -1,0 +1,15 @@
+layout:
+    - mond(1x1)
+
+mond:
+    widget_type: moon
+    title: Mond
+    state_map:
+      "New moon": 'Neumond'
+      "Waxing crescent": 'erstes Viertel'
+      "First quarter": 'zunehmender Halbmond'
+      "Waxing gibbous": 'zweites Viertel'
+      "Full moon": 'Vollmond'
+      "Waning gibbous": 'drittes Viertel'
+      "Last quarter": 'abnehmender Halbmond'
+      "Waning crescent": 'letztes Viertel'

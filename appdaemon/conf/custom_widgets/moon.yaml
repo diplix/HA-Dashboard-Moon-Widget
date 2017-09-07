@@ -1,0 +1,14 @@
+widget_type: basemoon
+fields:
+  title: {{title}}
+  title2: {{title2}}
+  moon_icon: ""
+  state_text: ""
+css: []
+static_css:
+  title_style: $moon_sub_style
+  main_style: $moon_main_style
+  state_text_style: $moon_state_text_style
+  widget_style: $moon_widget_style
+icons: []
+static_icons: []
